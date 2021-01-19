@@ -26,6 +26,7 @@ dependencies {
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
 		//test git
+		//test git2
 // exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
 	}
 }
